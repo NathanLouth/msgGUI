@@ -9,3 +9,6 @@
 | Users         | SAM Account Name or * (All users on a Computer) |
 | Message       | Content of the message sent to the user         |                     
 
+```
+Using .NET Framework 4.8
+```
