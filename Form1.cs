@@ -28,10 +28,5 @@ namespace msgGUI
             CMDArg = "/C msg " + UsersTxT.Text + " /server:" + ComputerNameTxT.Text + " " + MessageTxT.Text;
             System.Diagnostics.Process.Start("CMD.exe", CMDArg);
         }
-
-        private void ComputerNameTxT_TextChanged(object sender, EventArgs e)
-        {
-
-        }
     }
 }
