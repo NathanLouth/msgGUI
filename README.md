@@ -1,5 +1,5 @@
 # msgGUI
-## small WinForm GUI that makes use of msg to send messages to other computers on a local network.
+## A small WinForm GUI that makes use of msg to send messages to other computers on a local network.
 
 ![msgGUI](https://github.com/NathanLouth/msgGUI/blob/main/msgGUI.PNG) 
 
